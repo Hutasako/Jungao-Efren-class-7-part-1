@@ -2,6 +2,7 @@
 ### Random questions
 
 1. What's the answer to life?
+* 42.
 
 1. Only a Sith deals in what?
 
