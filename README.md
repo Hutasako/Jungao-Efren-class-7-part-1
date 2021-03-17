@@ -6,3 +6,4 @@
 1. Only a Sith deals in what?
 
 1. How many breakfasts do Hobbits have in a day?
+> 2 breakfasts.
